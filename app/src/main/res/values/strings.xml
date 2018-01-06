@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin ToolBox</string>
+
+    <array name="ListEntries">
+        <item>Syntax</item>
+        <item>Types</item>
+        <item>Control</item>
+        <item>Functions</item>
+    </array>
+
+
+</resources>
